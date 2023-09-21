@@ -1,0 +1,7 @@
+Name: ditto
+Nª pokedex: #132
+
+Types: normal
+Abilities: limberimposter
+
+Encounters: sinnoh-route-218-area - Pokémon diamond Pokémon pearl johto-route-34-area - Pokémon gold Pokémon silver Pokémon crystal Pokémon heartgold Pokémon soulsilver johto-route-35-area - Pokémon gold Pokémon silver Pokémon crystal Pokémon heartgold Pokémon soulsilver johto-route-47-area - Pokémon heartgold Pokémon soulsilver kanto-route-13-area - Pokémon red Pokémon blue Pokémon firered Pokémon leafgreen kanto-route-14-area - Pokémon red Pokémon blue Pokémon firered Pokémon leafgreen kanto-route-15-area - Pokémon red Pokémon blue Pokémon firered Pokémon leafgreen cerulean-cave-1f - Pokémon red Pokémon blue Pokémon yellow Pokémon firered Pokémon leafgreen Pokémon heartgold Pokémon soulsilver cerulean-cave-2f - Pokémon red Pokémon blue Pokémon yellow Pokémon firered Pokémon leafgreen Pokémon heartgold Pokémon soulsilver cerulean-cave-b1f - Pokémon red Pokémon blue Pokémon yellow Pokémon firered Pokémon leafgreen Pokémon heartgold Pokémon soulsilver kanto-route-23-area - Pokémon red Pokémon blue pokemon-mansion-b1f - Pokémon yellow Pokémon firered Pokémon leafgreen desert-underpass-area - Pokémon emerald giant-chasm-forest - Pokémon black Pokémon white Pokémon black-2 Pokémon white-2 giant-chasm-forest-cave - Pokémon black-2 Pokémon white-2 pokemon-village-area - Pokémon x Pokémon y johto-safari-zone-zone-wetland - Pokémon heartgold Pokémon soulsilver 
