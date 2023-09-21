@@ -1,0 +1,7 @@
+Name: groudon
+Nª pokedex: #383
+
+Types: ground
+Abilities: drought
+
+Encounters: cave-of-origin-b4f - Pokémon ruby terra-cave-area - Pokémon emerald embedded-tower-groundon-room - Pokémon soulsilver 
