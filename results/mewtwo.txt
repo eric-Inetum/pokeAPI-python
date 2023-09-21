@@ -1,0 +1,7 @@
+Name: mewtwo
+Nª pokedex: #150
+
+Types: psychic
+Abilities: pressureunnerve
+
+Encounters: cerulean-cave-b1f - Pokémon red Pokémon blue Pokémon yellow Pokémon firered Pokémon leafgreen Pokémon heartgold Pokémon soulsilver 
