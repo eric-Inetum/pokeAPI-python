@@ -1,0 +1,7 @@
+Name: pikachu-gmax
+Nª pokedex: #10199
+
+Types: electric
+Abilities: staticlightning-rod
+
+Encounters: 
